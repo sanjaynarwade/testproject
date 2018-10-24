@@ -1,1 +1,1 @@
-demo1.blade.php
+demo1
